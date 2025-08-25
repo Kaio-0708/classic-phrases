@@ -1,4 +1,4 @@
-##Frases clássicas de séries e filmes
+## Frases clássicas de séries e filmes
 
 ScreenMatch é uma aplicação web que exibe **frases famosas de séries e filmes**, permitindo que o usuário visualize aleatoriamente diferentes citações com personagens e imagens associadas. O projeto possui backend em **Java Spring Boot** e frontend em **HTML/CSS/JavaScript**, consumindo a API local para exibir os dados dinamicamente.
 
