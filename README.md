@@ -82,7 +82,7 @@ Ao abrir a aplicação, você verá:
 
 ## 👨‍💻 Autor
 
-- [GitHub](https://github.com/Kaio-0708)
+Kaio Vitor - [GitHub](https://github.com/Kaio-0708)
 
 
 
