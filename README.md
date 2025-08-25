@@ -71,6 +71,7 @@ mvn spring-boot:run
 ## 📸 Demonstração
 
 Link:  https://drive.google.com/file/d/1v0Fp-yM62UXo1Dj1DvYTvF7DHWAvYCmo/view?usp=drive_link
+
 Ao abrir a aplicação, você verá:
 
 - Imagem da série/filme
@@ -81,6 +82,7 @@ Ao abrir a aplicação, você verá:
 
 ## 👨‍💻 Autor
 
-**Kaio Vitor** 
+- [GitHub](https://github.com/Kaio-0708)
+
 
 
